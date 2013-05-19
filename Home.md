@@ -1,1 +1,4 @@
-Welcome to the drafts-and-plans wiki!
+302
+
+See pages: https://github.com/ZJUT/drafts-and-plans/wiki/_pages
+
